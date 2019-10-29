@@ -1,4 +1,4 @@
-<style>.main-content {direction: rtl;}</style>
+
 <div style="
     position: fixed;
     height: 40px;
@@ -8,12 +8,9 @@
     top: 0px;
     opacity: 0.6;
     border-bottom: 1px solid #656464;
-    box-shadow: 2px 2px 5px #616161;
-"><img style="
-    height: 35px;
+    box-shadow: 2px 2px 5px #616161;"><style>.main-content{direction: rtl;}</style><img style="height: 35px;
     width: 35px;
-    margin: 2px;
-" src="https://1.bp.blogspot.com/-iEbKgTfWPPg/Xbg7n2hEYKI/AAAAAAAAGUI/a1SdKJEPhmwk9wA61b-uW6uFUNdX-uYJACLcBGAsYHQ/s1600/logo-s.png"></div>
+    margin: 2px;" src="https://1.bp.blogspot.com/-iEbKgTfWPPg/Xbg7n2hEYKI/AAAAAAAAGUI/a1SdKJEPhmwk9wA61b-uW6uFUNdX-uYJACLcBGAsYHQ/s1600/logo-s.png"></div>
 
 ## Welcome to 1Byte
 
