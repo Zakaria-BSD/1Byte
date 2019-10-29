@@ -35,8 +35,52 @@
 
 
 ```markdown
-Syntax highlighted code block
+#include <LiquidCrystal.h>
 
+#include <Keypad.h>
+int led = 10;int a,b,c,d;
+
+const byte ROWS = 4; //four rows
+const byte COLS = 4; //three columns
+char keys[ROWS][COLS] = {
+  {'1','2','3','A'},
+  {'4','5','6','B'},
+  {'7','8','9','C'},
+  {'*','0','#','D'}
+};
+
+LiquidCrystal lcd(A0, A1, A2, A3, A4, A5);
+
+byte rowPins[ROWS] = {2, 3, 4, 5}; //connect to the row pinouts of the keypad
+byte colPins[COLS] = {6,7,8,9}; //connect to the column pinouts of the keypad
+
+Keypad keypad = Keypad( makeKeymap(keys), rowPins, colPins, ROWS, COLS );
+
+void setup(){
+  Serial.begin(9600);
+  pinMode(led, OUTPUT);   
+  lcd.begin(16,2);
+ 
+}
+  
+void loop(){
+  
+  
+  
+  char key = keypad.getKey();
+    // just print the pressed key
+   if (key){
+    Serial.println(key);lcd.print(key); delay(300);
+  } 
+  
+  // this checkes if 4 is pressed, then do something. Here  we print the text but you can control something.
+  if (key =='6'){a=1;}
+  if (key =='8' and a == 1){b=1;}
+  if (key =='9' and b == 1){c=1;}
+  if (key =='1' and c == 1){digitalWrite(led,1);}
+    
+  
+}
 # Header 1
 ## Header 2
 ### Header 3
