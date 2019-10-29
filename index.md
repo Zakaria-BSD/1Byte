@@ -25,21 +25,21 @@
     background-repeat: no-repeat;
     background-size: 400px 400px;}.body{background: #f7f7f7; }.btn{padding: 0px;}.project-name{font-size:24px !important;font-family:'Staatliches',cursive;color: #FFFFFF;font-size: 16px;}
 .title{color: white;
-    text-decoration: none;
+    text-decoration: none !important;
     padding-right: 5px;
     padding-left: 5px;
     border-radius: 5px;
     padding: 5px;
     font-size: 19px;}
 .title:link{white;
-    text-decoration: none;}
+    text-decoration: none !important;}
 .title:visited{white;
-    text-decoration: none;}
+    text-decoration: none !important;}
 .title:hover{white;transition: all .4s ease;
 -webkit-transition: all .4s ease;
-    text-decoration: none;background: #f1efef2e;}
+    text-decoration !important: none;background: #f1efef2e;}
 .title:active{white;
-    text-decoration: none;}</style>
+    text-decoration !important: none;}</style>
   <a href=""><font class="title">الرئيسية</font></a>
     <a href=""><font class="title">عن القناة</font></a>
     <a href=""><font class="title">صفحتنا على الفيسبوك</font></a>
