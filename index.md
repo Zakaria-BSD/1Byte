@@ -1,7 +1,7 @@
 <link href="https://fonts.googleapis.com/css?family=Staatliches&display=swap" rel="stylesheet">
 <link href="https://fonts.googleapis.com/css?family=Tajawal&display=swap" rel="stylesheet">
 <link rel="shortcut icon" type="image/png" href="https://1.bp.blogspot.com/-iEbKgTfWPPg/Xbg7n2hEYKI/AAAAAAAAGUI/a1SdKJEPhmwk9wA61b-uW6uFUNdX-uYJACLcBGAsYHQ/s1600/logo-s.png">
-<div style="text-align:center;position:fixed;
+<div style="padding: 5px;text-align:center;position:fixed;
     height:40px;
     background-image: linear-gradient(15deg, #b30202, #1d0303);
     width: 100%;
@@ -35,7 +35,8 @@
     text-decoration: none;}
 .title:visited{white;
     text-decoration: none;}
-.title:hover{white;
+.title:hover{white;transition: all .4s ease;
+-webkit-transition: all .4s ease;
     text-decoration: none;background: #f1efef2e;}
 .title:active{white;
     text-decoration: none;}</style>
