@@ -1,4 +1,5 @@
 <link href="https://fonts.googleapis.com/css?family=Staatliches&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Tajawal&display=swap" rel="stylesheet">
 <link rel="shortcut icon" type="image/png" href="https://1.bp.blogspot.com/-iEbKgTfWPPg/Xbg7n2hEYKI/AAAAAAAAGUI/a1SdKJEPhmwk9wA61b-uW6uFUNdX-uYJACLcBGAsYHQ/s1600/logo-s.png">
 <div style="
     position: fixed;
@@ -9,7 +10,7 @@
     top: 0px;
     opacity: 0.6;
     border-bottom: 1px solid #656464;
-    box-shadow: 2px 2px 5px #616161;"><style>.main-content{direction: rtl;box-shadow: 2px 2px 10px #ccc;
+    box-shadow: 2px 2px 5px #616161;"><style>.main-content{font-family: 'Tajawal', sans-serif;direction: rtl;box-shadow: 2px 2px 10px #ccc;
     margin-top: 50px;
     background: white;}
     .page-header{padding: 0px !important;
@@ -26,10 +27,10 @@
     width: 35px;
     margin: 2px;" src="https://1.bp.blogspot.com/-iEbKgTfWPPg/Xbg7n2hEYKI/AAAAAAAAGUI/a1SdKJEPhmwk9wA61b-uW6uFUNdX-uYJACLcBGAsYHQ/s1600/logo-s.png"></div>
 
-## Welcome to 1Byte
+## الصفحة الرئيسية
 
 
-### Markdown
+### مثال لكود برمجي
 
 
 
@@ -46,12 +47,12 @@ Syntax highlighted code block
 1. Numbered
 2. List
 
-**Bold** and _Italic_ and `Code` text
+**خط غليظ** و _خط مائل_ و `كود` تكست
 
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+//For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
 
