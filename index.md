@@ -1,16 +1,16 @@
 <link href="https://fonts.googleapis.com/css?family=Staatliches&display=swap" rel="stylesheet">
 <link href="https://fonts.googleapis.com/css?family=Tajawal&display=swap" rel="stylesheet">
 <link rel="shortcut icon" type="image/png" href="https://1.bp.blogspot.com/-iEbKgTfWPPg/Xbg7n2hEYKI/AAAAAAAAGUI/a1SdKJEPhmwk9wA61b-uW6uFUNdX-uYJACLcBGAsYHQ/s1600/logo-s.png">
-<div style="
-    position: fixed;
+<div style="position: fixed;
     height: 40px;
-    background: linear-gradient(260deg, #636363, #ffffff);
+    background-image: linear-gradient(15deg, #b30202, #1d0303);
     width: 100%;
     left: 0px;
     top: 0px;
     opacity: 0.6;
     border-bottom: 1px solid #656464;
-    box-shadow: 2px 2px 5px #616161;"><style>.main-content pre{direction: ltr;}.main-content{padding-top: 0px;font-family: 'Tajawal', sans-serif;direction: rtl;box-shadow: 2px 2px 10px #ccc;
+    box-shadow: 2px 2px 5px #616161;
+    background: #4c0101;"><style>.main-content pre{direction: ltr;}.main-content{padding-top: 0px;font-family: 'Tajawal', sans-serif;direction: rtl;box-shadow: 2px 2px 10px #ccc;
     margin-top: 50px;
     background: white;}
     .page-header{padding: 0px !important;
@@ -23,9 +23,12 @@
     border: 2px solid #ababab;
     background-image: url(https://1.bp.blogspot.com/-iEbKgTfWPPg/Xbg7n2hEYKI/AAAAAAAAGUI/a1SdKJEPhmwk9wA61b-uW6uFUNdX-uYJACLcBGAsYHQ/s1600/logo-s.png);
     background-repeat: no-repeat;
-    background-size: 400px 400px;}.body{background: #f7f7f7; }.btn{padding: 0px;}.project-name{font-size:24px !important;font-family:'Staatliches',cursive;color: #FFFFFF;font-size: 16px;</style><img style="height: 35px;
-    width: 35px;
-    margin: 2px;" src="https://1.bp.blogspot.com/-iEbKgTfWPPg/Xbg7n2hEYKI/AAAAAAAAGUI/a1SdKJEPhmwk9wA61b-uW6uFUNdX-uYJACLcBGAsYHQ/s1600/logo-s.png"></div>
+    background-size: 400px 400px;}.body{background: #f7f7f7; }.btn{padding: 0px;}.project-name{font-size:24px !important;font-family:'Staatliches',cursive;color: #FFFFFF;font-size: 16px;</style>
+    <a href=""><font>الرئيسية</font></>
+    <a href=""><font>عن القناة</font></>
+    <a href=""><font>صفحتنا على الفيسبوك</font></>
+    
+    </div>
 
 ## الصفحة الرئيسية
 
