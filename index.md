@@ -10,7 +10,7 @@
     top: 0px;
     opacity: 0.6;
     border-bottom: 1px solid #656464;
-    box-shadow: 2px 2px 5px #616161;"><style>.main-content{font-family: 'Tajawal', sans-serif;direction: rtl;box-shadow: 2px 2px 10px #ccc;
+    box-shadow: 2px 2px 5px #616161;"><style>.main-content pre{direction: ltr;}.main-content{padding-top: 0px;font-family: 'Tajawal', sans-serif;direction: rtl;box-shadow: 2px 2px 10px #ccc;
     margin-top: 50px;
     background: white;}
     .page-header{padding: 0px !important;
