@@ -1,3 +1,4 @@
+<style>.main-content {direction: rtl;}</style>
 <div style="
     position: fixed;
     height: 40px;
@@ -13,7 +14,7 @@
     width: 35px;
     margin: 2px;
 " src="https://1.bp.blogspot.com/-iEbKgTfWPPg/Xbg7n2hEYKI/AAAAAAAAGUI/a1SdKJEPhmwk9wA61b-uW6uFUNdX-uYJACLcBGAsYHQ/s1600/logo-s.png"></div>
-<div style="direction: rtl;">
+
 ## Welcome to 1Byte
 
 
@@ -48,4 +49,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
-</div>
+
