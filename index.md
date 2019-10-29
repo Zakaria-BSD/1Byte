@@ -1,7 +1,7 @@
 <link href="https://fonts.googleapis.com/css?family=Staatliches&display=swap" rel="stylesheet">
 <link href="https://fonts.googleapis.com/css?family=Tajawal&display=swap" rel="stylesheet">
 <link rel="shortcut icon" type="image/png" href="https://1.bp.blogspot.com/-iEbKgTfWPPg/Xbg7n2hEYKI/AAAAAAAAGUI/a1SdKJEPhmwk9wA61b-uW6uFUNdX-uYJACLcBGAsYHQ/s1600/logo-s.png">
-<div style="position:fixed;
+<div style="text-align:center;position:fixed;
     height:40px;
     background-image: linear-gradient(15deg, #b30202, #1d0303);
     width: 100%;
@@ -28,9 +28,9 @@
     text-decoration: none;
     padding-right: 5px;
     padding-left: 5px;}</style>
-  <div><a href=""><font class="title">الرئيسية</font></a>
+  <a href=""><font class="title">الرئيسية</font></a>
     <a href=""><font class="title">عن القناة</font></a>
-    <a href=""><font class="title">صفحتنا على الفيسبوك</font></a></div>
+    <a href=""><font class="title">صفحتنا على الفيسبوك</font></a>
     
     </div>
 
