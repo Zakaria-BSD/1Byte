@@ -10,8 +10,8 @@
     top: 0px;
     opacity: 0.8;
     border-bottom: 1px solid #656464;
-    box-shadow: 2px 2px 5px #616161;
-    background: #4c0101;"><style>.main-content pre{direction: ltr;}.main-content h2{color: #991515 !important;}.main-content{border-radius: 15px 15px 0 0;padding-top: 4px;font-family: 'Tajawal', sans-serif;direction: rtl;box-shadow: 1px 1px 3px #ccc;
+    box-shadow: 2px 2px 5px #000000;
+    background: #4c0101;"><style>.main-content pre{direction: ltr;}.main-content h2{color: #991515 !important;}.main-content h3{color: #991515 !important;}.main-content{border-radius: 15px 15px 0 0;padding-top: 4px;font-family: 'Tajawal', sans-serif;direction: rtl;box-shadow: 1px 1px 3px #ccc;
     margin-top: 50px;
     background: white;}
     .page-header{padding: 0px !important;
