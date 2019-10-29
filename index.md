@@ -27,7 +27,18 @@
 .title{color: white;
     text-decoration: none;
     padding-right: 5px;
-    padding-left: 5px;}</style>
+    padding-left: 5px;
+    border-radius: 5px;
+    padding: 5px;
+    font-size: 19px;}
+.title:link{white;
+    text-decoration: none;}
+.title:visited{white;
+    text-decoration: none;}
+.title:hover{white;
+    text-decoration: none;background: #f1efef2e;}
+.title:active{white;
+    text-decoration: none;}</style>
   <a href=""><font class="title">الرئيسية</font></a>
     <a href=""><font class="title">عن القناة</font></a>
     <a href=""><font class="title">صفحتنا على الفيسبوك</font></a>
