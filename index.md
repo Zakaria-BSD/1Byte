@@ -9,8 +9,7 @@
     opacity: 0.6;
     border-bottom: 1px solid #656464;
     box-shadow: 2px 2px 5px #616161;"><style>.main-content{direction: rtl;}
-    .page-header{padding: 0px !important;background:#9a9a9a;position:absolute;}.btn{padding: 0px;}
-    font-size: 16px;</style><img style="height: 35px;
+    .page-header{padding:0px !important;background:#9c9c9c;position:absolute;z-index:1;border-radius:5px;opacity:0.5;top: 47px;border:2px solid #ababab;}.btn{padding: 0px;}.project-name{font-size:24px;font-family:'Staatliches',cursive;color: #690000;font-size: 16px;</style><img style="height: 35px;
     width: 35px;
     margin: 2px;" src="https://1.bp.blogspot.com/-iEbKgTfWPPg/Xbg7n2hEYKI/AAAAAAAAGUI/a1SdKJEPhmwk9wA61b-uW6uFUNdX-uYJACLcBGAsYHQ/s1600/logo-s.png"></div>
 
