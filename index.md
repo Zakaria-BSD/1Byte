@@ -23,10 +23,14 @@
     border: 2px solid #ababab;
     background-image: url(https://1.bp.blogspot.com/-iEbKgTfWPPg/Xbg7n2hEYKI/AAAAAAAAGUI/a1SdKJEPhmwk9wA61b-uW6uFUNdX-uYJACLcBGAsYHQ/s1600/logo-s.png);
     background-repeat: no-repeat;
-    background-size: 400px 400px;}.body{background: #f7f7f7; }.btn{padding: 0px;}.project-name{font-size:24px !important;font-family:'Staatliches',cursive;color: #FFFFFF;font-size: 16px;</style>
-    <a href=""><font>الرئيسية</font></a>
-    <a href=""><font>عن القناة</font></a>
-    <a href=""><font>صفحتنا على الفيسبوك</font></a>
+    background-size: 400px 400px;}.body{background: #f7f7f7; }.btn{padding: 0px;}.project-name{font-size:24px !important;font-family:'Staatliches',cursive;color: #FFFFFF;font-size: 16px;}
+.title{color: white;
+    text-decoration: none;
+    padding-right: 5px;
+    padding-left: 5px;}</style>
+  <div><a href=""><font class="title">الرئيسية</font></a>
+    <a href=""><font class="title">عن القناة</font></a>
+    <a href=""><font class="title">صفحتنا على الفيسبوك</font></a></div>
     
     </div>
 
