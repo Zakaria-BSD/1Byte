@@ -1,3 +1,4 @@
+<title>1Byte Homepage</title>
 <div style=" height: 100%; left: 0; position: fixed; top: 0; width: 100%; z-index: -2; background-image: url(https://lh5.googleusercontent.com/proxy/T67n3enEs3xAxEDeRSnpECTqNroeHtO7YL4PKvpRxX9vysbp0MAWBQWAo6SHAXAZy6HHuBfxPWsxLyHMYhamcQntN4xyOCF6d1PqFNzsAGMcfVuKXA=s0-d); background-size: 700px 825px; "></div><div style=" background: rgba(0, 0, 0, 0.4) url(//4.bp.blogspot.com/-iO_ZWkwPW8A/Uz4dkFw4p4I/AAAAAAAABxo/KzpIdP8czxQ/s320/overlay.png) repeat; height: 100%; left: 0; position: fixed; top: 0; width: 100%; z-index: -1;background-size: 100px 100px;"></div>
 <link href="https://fonts.googleapis.com/css?family=Staatliches&display=swap" rel="stylesheet">
 <link href="https://fonts.googleapis.com/css?family=Tajawal&display=swap" rel="stylesheet">
@@ -12,9 +13,11 @@
     border-bottom: 1px solid #656464;
     box-shadow: 2px 2px 5px #000000;
     background: #4c0101;"><style>.main-content pre{direction: ltr;}.main-content h2{color: #991515 !important;}.main-content h3{color: #991515 !important;}.main-content{border-radius: 15px 15px 0 0;padding-top: 4px;font-family: 'Tajawal', sans-serif;direction: rtl;box-shadow: 1px 1px 3px #ccc;
-    margin-top: 50px;
+    margin-top: 65px;
     background: white;}
-    .page-header{padding: 0px !important;
+    .page-header{
+    margin-top: 17px;
+    padding: 0px !important;
     background: #000000;
     position: absolute;
     z-index: 1;
