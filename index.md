@@ -1,3 +1,4 @@
+<div style=" height: 100%; left: 0; position: fixed; top: 0; width: 100%; z-index: -2; background-image: url(https://lh5.googleusercontent.com/proxy/T67n3enEs3xAxEDeRSnpECTqNroeHtO7YL4PKvpRxX9vysbp0MAWBQWAo6SHAXAZy6HHuBfxPWsxLyHMYhamcQntN4xyOCF6d1PqFNzsAGMcfVuKXA=s0-d); background-size: 700px 825px; "></div><div style=" background: rgba(0, 0, 0, 0.4) url(//4.bp.blogspot.com/-iO_ZWkwPW8A/Uz4dkFw4p4I/AAAAAAAABxo/KzpIdP8czxQ/s320/overlay.png) repeat; height: 100%; left: 0; position: fixed; top: 0; width: 100%; z-index: -1;background-size: 100px 100px;"></div>
 <link href="https://fonts.googleapis.com/css?family=Staatliches&display=swap" rel="stylesheet">
 <link href="https://fonts.googleapis.com/css?family=Tajawal&display=swap" rel="stylesheet">
 <link rel="shortcut icon" type="image/png" href="https://1.bp.blogspot.com/-iEbKgTfWPPg/Xbg7n2hEYKI/AAAAAAAAGUI/a1SdKJEPhmwk9wA61b-uW6uFUNdX-uYJACLcBGAsYHQ/s1600/logo-s.png">
@@ -10,7 +11,7 @@
     opacity: 0.8;
     border-bottom: 1px solid #656464;
     box-shadow: 2px 2px 5px #616161;
-    background: #4c0101;"><style>.main-content pre{direction: ltr;}.main-content{padding-top: 0px;font-family: 'Tajawal', sans-serif;direction: rtl;box-shadow: 2px 2px 10px #ccc;
+    background: #4c0101;"><style>.main-content pre{direction: ltr;}.main-content{padding-top: 0px;font-family: 'Tajawal', sans-serif;direction: rtl;box-shadow: 1px 1px 3px #ccc;
     margin-top: 50px;
     background: white;}
     .page-header{padding: 0px !important;
@@ -23,8 +24,7 @@
     border: 2px solid #ababab;
     background-image: url(https://1.bp.blogspot.com/-iEbKgTfWPPg/Xbg7n2hEYKI/AAAAAAAAGUI/a1SdKJEPhmwk9wA61b-uW6uFUNdX-uYJACLcBGAsYHQ/s1600/logo-s.png);
     background-repeat: no-repeat;
-    background-size: 400px 400px;}.body{background: #f5f5f5;
-} }.btn{padding: 0px;}.project-name{font-size:24px !important;font-family:'Staatliches',cursive;color: #FFFFFF;font-size: 16px;}
+    background-size: 400px 400px;}.body{background: #f5f5f5;}.btn{padding: 0px;}.project-name{font-size:24px !important;font-family:'Staatliches',cursive;color: #FFFFFF;font-size: 16px;}
 .title{color: white;
     text-decoration: none !important;
     padding-right: 5px;
