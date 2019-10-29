@@ -7,7 +7,7 @@
     width: 100%;
     left: 0px;
     top: 0px;
-    opacity: 0.6;
+    opacity: 0.8;
     border-bottom: 1px solid #656464;
     box-shadow: 2px 2px 5px #616161;
     background: #4c0101;"><style>.main-content pre{direction: ltr;}.main-content{padding-top: 0px;font-family: 'Tajawal', sans-serif;direction: rtl;box-shadow: 2px 2px 10px #ccc;
@@ -23,7 +23,8 @@
     border: 2px solid #ababab;
     background-image: url(https://1.bp.blogspot.com/-iEbKgTfWPPg/Xbg7n2hEYKI/AAAAAAAAGUI/a1SdKJEPhmwk9wA61b-uW6uFUNdX-uYJACLcBGAsYHQ/s1600/logo-s.png);
     background-repeat: no-repeat;
-    background-size: 400px 400px;}.body{background: #f7f7f7; }.btn{padding: 0px;}.project-name{font-size:24px !important;font-family:'Staatliches',cursive;color: #FFFFFF;font-size: 16px;}
+    background-size: 400px 400px;}.body{background: #f5f5f5;
+} }.btn{padding: 0px;}.project-name{font-size:24px !important;font-family:'Staatliches',cursive;color: #FFFFFF;font-size: 16px;}
 .title{color: white;
     text-decoration: none !important;
     padding-right: 5px;
