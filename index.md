@@ -3,7 +3,7 @@
 <link href="https://fonts.googleapis.com/css?family=Staatliches&display=swap" rel="stylesheet">
 <link href="https://fonts.googleapis.com/css?family=Tajawal&display=swap" rel="stylesheet">
 <link rel="shortcut icon" type="image/png" href="https://1.bp.blogspot.com/-iEbKgTfWPPg/Xbg7n2hEYKI/AAAAAAAAGUI/a1SdKJEPhmwk9wA61b-uW6uFUNdX-uYJACLcBGAsYHQ/s1600/logo-s.png">
-<div style="padding: 5px;text-align:center;position:fixed;
+<div style="padding: 3px;text-align:center;position:fixed;
     height:40px;
     background-image: linear-gradient(15deg, #b30202, #1d0303);
     width: 100%;
@@ -14,9 +14,10 @@
     box-shadow: 2px 2px 5px #000000;
     background: #4c0101;"><img src="https://2.bp.blogspot.com/-fLDN3fxMkfI/Xbi0ZObnmwI/AAAAAAAAGUY/_0f4n9o35-oEECycSGr-zupANKAkH_GfQCLcBGAsYHQ/s1600/logo-white.png" class="logo"><style>
     .logo{height: 32px;
-    margin: -9px;
+    margin: -10px;
     margin-left: 3px;}
     .logo:hover{opacity: 0.5;white;transition: all .4s ease;
+-webkit-transition: all .4s ease;}.logo:active{opacity: 0.5;white;transition: all .4s ease;
 -webkit-transition: all .4s ease;}
     .main-content pre{direction: ltr;}.main-content h2{color: #991515 !important;}.main-content h3{color: #991515 !important;}.main-content{border-radius: 15px 15px 0 0;padding-top: 4px;font-family: 'Tajawal', sans-serif;direction: rtl;box-shadow: 1px 1px 3px #ccc;
     margin-top: 65px;
