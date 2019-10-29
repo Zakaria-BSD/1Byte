@@ -1,8 +1,8 @@
 <link href="https://fonts.googleapis.com/css?family=Staatliches&display=swap" rel="stylesheet">
 <link href="https://fonts.googleapis.com/css?family=Tajawal&display=swap" rel="stylesheet">
 <link rel="shortcut icon" type="image/png" href="https://1.bp.blogspot.com/-iEbKgTfWPPg/Xbg7n2hEYKI/AAAAAAAAGUI/a1SdKJEPhmwk9wA61b-uW6uFUNdX-uYJACLcBGAsYHQ/s1600/logo-s.png">
-<div style="position: fixed;
-    height: 40px;
+<div style="position:fixed;
+    height:40px;
     background-image: linear-gradient(15deg, #b30202, #1d0303);
     width: 100%;
     left: 0px;
@@ -24,9 +24,9 @@
     background-image: url(https://1.bp.blogspot.com/-iEbKgTfWPPg/Xbg7n2hEYKI/AAAAAAAAGUI/a1SdKJEPhmwk9wA61b-uW6uFUNdX-uYJACLcBGAsYHQ/s1600/logo-s.png);
     background-repeat: no-repeat;
     background-size: 400px 400px;}.body{background: #f7f7f7; }.btn{padding: 0px;}.project-name{font-size:24px !important;font-family:'Staatliches',cursive;color: #FFFFFF;font-size: 16px;</style>
-    <a href=""><font>الرئيسية</font><a/>
-    <a href=""><font>عن القناة</font><a/>
-    <a href=""><font>صفحتنا على الفيسبوك</font><a/>
+    <a href=""><font>الرئيسية</font></a>
+    <a href=""><font>عن القناة</font></a>
+    <a href=""><font>صفحتنا على الفيسبوك</font></a>
     
     </div>
 
