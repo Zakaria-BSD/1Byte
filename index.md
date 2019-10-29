@@ -1,10 +1,10 @@
 ## Welcome to 1Byte
-
+<img style="" src="https://1.bp.blogspot.com/-iEbKgTfWPPg/Xbg7n2hEYKI/AAAAAAAAGUI/a1SdKJEPhmwk9wA61b-uW6uFUNdX-uYJACLcBGAsYHQ/s1600/logo-s.png">
 
 ### Markdown
 
 
-<img src="https://1.bp.blogspot.com/-iEbKgTfWPPg/Xbg7n2hEYKI/AAAAAAAAGUI/a1SdKJEPhmwk9wA61b-uW6uFUNdX-uYJACLcBGAsYHQ/s1600/logo-s.png">
+
 ```markdown
 Syntax highlighted code block
 
