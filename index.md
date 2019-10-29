@@ -12,7 +12,13 @@
     opacity: 0.8;
     border-bottom: 1px solid #656464;
     box-shadow: 2px 2px 5px #000000;
-    background: #4c0101;"><style>.main-content pre{direction: ltr;}.main-content h2{color: #991515 !important;}.main-content h3{color: #991515 !important;}.main-content{border-radius: 15px 15px 0 0;padding-top: 4px;font-family: 'Tajawal', sans-serif;direction: rtl;box-shadow: 1px 1px 3px #ccc;
+    background: #4c0101;"><img src="https://2.bp.blogspot.com/-fLDN3fxMkfI/Xbi0ZObnmwI/AAAAAAAAGUY/_0f4n9o35-oEECycSGr-zupANKAkH_GfQCLcBGAsYHQ/s1600/logo-white.png" class="logo"><style>
+    .logo{height: 32px;
+    margin: -9px;
+    margin-left: 3px;}
+    .logo:hover{opacity: 0.5;white;transition: all .4s ease;
+-webkit-transition: all .4s ease;}
+    .main-content pre{direction: ltr;}.main-content h2{color: #991515 !important;}.main-content h3{color: #991515 !important;}.main-content{border-radius: 15px 15px 0 0;padding-top: 4px;font-family: 'Tajawal', sans-serif;direction: rtl;box-shadow: 1px 1px 3px #ccc;
     margin-top: 65px;
     background: white;}
     .page-header{
