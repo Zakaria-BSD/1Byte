@@ -25,7 +25,7 @@
     background-image: url(https://1.bp.blogspot.com/-iEbKgTfWPPg/Xbg7n2hEYKI/AAAAAAAAGUI/a1SdKJEPhmwk9wA61b-uW6uFUNdX-uYJACLcBGAsYHQ/s1600/logo-s.png);
     background-repeat: no-repeat;
     background-size: 400px 400px;}.body{background: #f5f5f5;}.btn{padding: 0px;}.project-name{font-size:24px !important;font-family:'Staatliches',cursive;color: #FFFFFF;font-size: 16px;}
-.title{color: white;
+.a:hover{text-decoration:none;}.title{color: white;
     text-decoration: none !important;
     padding-right: 5px;
     padding-left: 5px;
